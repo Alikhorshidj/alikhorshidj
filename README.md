@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python <br>🎯 Goals: <br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python <br>🎯 Goals: <br>🎲 Fun fact: I Turn Coffee into CODE</p>
 
 ###
 
