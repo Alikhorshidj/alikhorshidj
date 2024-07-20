@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Ali Khorshidi, 
-  I'm Softwere Developer & Game Developer & Article Translator</p>
+<p align="left">My name is Ali Khorshidi</p>
+<p align="left"> Softwere Developer & Game Developer & Article Translator</p>
 
 ###
 
