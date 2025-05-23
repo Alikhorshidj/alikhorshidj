@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+v<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://www.cleanpng.com/png-visual-paradigm-unified-modeling-language-computer-1763824/" height="40" alt="paradigm logo"  />
+  <img src="https://icons8.com/icons/set/visual-paradigm-logo--c-" height="40" alt="paradigm logo"  />
 </div>
 
 
