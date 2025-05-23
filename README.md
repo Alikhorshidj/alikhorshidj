@@ -43,8 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
-###🔗 Links
 
+
+## 🔗 Links
 <div align="center">
   <a href="https://www.linkedin.com/in/ali--khorshidi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -56,14 +57,5 @@
   <a href="mailto:khorshidiali.official@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-## 🔗 Links
-<div align="center">
-  <a href="https://www.linkedin.com/in/ali--khorshidi"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://instagram.com/alikhorshidj?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram" /></a>
-  <a href="mailto:khorshidiali.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffcdd2?style=flat&logo=gmail" /></a>
   <a href="https://t.me/alikhorshidj"><img src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram" /></a>
 </div>
