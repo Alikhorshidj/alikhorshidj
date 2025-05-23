@@ -49,7 +49,8 @@
   <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="excel logo"  />
-
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="excel logo"  />
 </div>
 
 
