@@ -22,7 +22,7 @@ v<h1 align="left">Hey 👋 What's up?</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Adobe_Animate_CC_icon_%282020%29.svg" height="40" alt="animate logo"  />
+  <img src="https://www.svgrepo.com/show/452144/adobe-animate.svg" height="40" alt="animate logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
