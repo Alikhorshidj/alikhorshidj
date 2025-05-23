@@ -56,11 +56,10 @@
   <a href="mailto:khorshidiali.official@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="mailto:khorshidiali.official@gmail.com" target="_blank">
+  <a href="https://discord.com/users/alikhorshidj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://t.me/alikhorshidj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://t.me/alikhorshidj"><img src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram" /></a>
 </div>
