@@ -52,7 +52,7 @@ v<h1 align="left">Hey 👋 What's up?</h1>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/ios-filled/100/000000/visual-paradigm.png" height="40" alt="paradigm logo"  />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
 </div>
 
 
