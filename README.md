@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="excel logo"  />
+  <img src="https://www.vecteezy.com/png/22101030-microsoft-excel-logo-transparent-png" height="40" alt="excel logo"  />
 
 </div>
 
