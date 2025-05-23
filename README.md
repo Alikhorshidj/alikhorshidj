@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://download.blender.org/institute/Blender%20Logo%20-%20Stacked.png" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
