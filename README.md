@@ -50,7 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="excel logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="excel logo"  />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://www.cleanpng.com/png-visual-paradigm-unified-modeling-language-computer-1763824/" height="40" alt="paradigm logo"  />
 </div>
 
 
